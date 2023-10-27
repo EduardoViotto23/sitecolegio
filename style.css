@@ -15,9 +15,14 @@
 #titulo1{
     text-align: center;
     color: rgb(101, 101, 184);
+    background-color: rgb(91, 95, 91);
 }   
 
 h2{
     text-align: center;
     color: blue;
 }    
+
+body{
+    background-color: rgb(189, 159, 159);
+}
