@@ -1,12 +1,12 @@
 .paragrafo1{
     text-align: center;
-    color: rgb(170, 150, 150);
+    color: #A78295;
     font-size: 20px;
     }
 
     .paragrafo2{
         text-align: center;
-        color: rgb(240, 15, 15);
+        color: #A78295;
         font-size: 20px;
         }
     
@@ -20,9 +20,9 @@
 
 h2{
     text-align: center;
-    color: blue;
+    color:#331D2C;
 }    
 
 body{
-    background-color: rgb(189, 159, 159);
+    background-color:#FFEADD;
 }
