@@ -1,10 +1,18 @@
-p {
+.paragrafo1{
     text-align: center;
     color: rgb(170, 150, 150);
     font-size: 20px;
     }
 
-h1{
+    .paragrafo2{
+        text-align: center;
+        color: rgb(240, 15, 15);
+        font-size: 20px;
+        }
+    
+
+
+#titulo1{
     text-align: center;
     color: blue;
 }   
