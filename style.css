@@ -4,6 +4,11 @@
     font-size: 20px;
     }
 
+    #banner{
+        width: 80%;
+        align-items: center;
+    }
+
     .paragrafo2{
         text-align: center;
         color: #A78295;
