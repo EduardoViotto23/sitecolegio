@@ -17,11 +17,10 @@
     
 
 
-#titulo1{
-    text-align: center;
-    color: rgb(21, 239, 10);
-    
-}   
+        h1{
+            text-align: center;
+            color:#331D2C;
+        }
 
 h2{
     text-align: center;
@@ -36,4 +35,14 @@ img{
     align-items: center;
 }
 
-.ca
+.cabecalho{
+    background-color: aqua;
+}
+
+.conteudo{
+    background-color: bisque;
+}
+
+.rodape{
+    background-color: cadetblue;
+}
