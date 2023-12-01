@@ -38,6 +38,7 @@ body{
     color:#331D2C;
     font-size: 30px;
     border-bottom: 2px solid  #a2969e;
+    display: flex;
 }
 
 .conteudo{
