@@ -28,9 +28,7 @@ body{
     background-color:#FFEADD;
 }
 
-img{
-    align-items: center;
-}
+
 
 .cabecalho{
     background-color: aqua;
@@ -58,5 +56,6 @@ img{
     border-radius: 30px;
     width: 80%;
     text-align: center;
+    width: 10px;
     
 }
