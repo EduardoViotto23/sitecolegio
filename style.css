@@ -38,7 +38,7 @@ img{
 .cabecalho{
     background-color: aqua;
     margin: 0;
-    padding: 0%;
+    padding: 5%;
 }
 
 .conteudo{
@@ -47,4 +47,6 @@ img{
 
 .rodape{
     background-color: cadetblue;
+    margin: o;
+    padding: 5%;
 }
