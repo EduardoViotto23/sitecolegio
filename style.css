@@ -43,10 +43,12 @@ img{
 
 .conteudo{
     background-color: bisque;
+    margin: 0;
+    padding: 10%;
 }
 
 .rodape{
     background-color: cadetblue;
-    margin: o;
+    margin: 0;
     padding: 5%;
 }
