@@ -39,6 +39,7 @@ body{
     font-size: 30px;
     border-bottom: 2px solid  #a2969e;
     display: flex;
+    justify-content: space-around;
 }
 
 .conteudo{
