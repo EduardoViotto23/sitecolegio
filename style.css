@@ -37,6 +37,8 @@ img{
 
 .cabecalho{
     background-color: aqua;
+    margin: 0;
+    padding: 0%;
 }
 
 .conteudo{
